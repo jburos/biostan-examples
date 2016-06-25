@@ -2,7 +2,7 @@
 title: "Applied Survival Models"
 author: "Jacqueline Buros Novik"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: rmarkdown::github_document
 vignette: >
   %\VignetteIndexEntry{Applied survival models}
   %\VignetteEngine{knitr::rmarkdown}
