@@ -950,9 +950,7 @@ act_agg %>%
 
 This isn't particularly encouraging, since it suggests that far fewer than the expected 90% of observations fall within the posterior intervals.
 
-But, we haven't included any covariate values. Does this improve with additional covariates?
-
-
+```{r}
 
 
 
